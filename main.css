@@ -307,6 +307,6 @@ body {
 
 @media (max-width: 480px) {
   .tagline {
-    font-size: 16px;
+    background-color: #000000;
   }
     }
