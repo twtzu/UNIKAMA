@@ -306,7 +306,7 @@ body {
 }
 
 @media (max-width: 480px) {
-  .tagline {
-    background-color: #000000;
+  .subnav a {
+      color: black;
   }
     }
