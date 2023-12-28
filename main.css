@@ -304,3 +304,9 @@ body {
 .hidden-indicators {
     display: none !important;
 }
+
+@media (max-width: 480px) {
+  .tagline {
+    font-size: 16px;
+  }
+    }
